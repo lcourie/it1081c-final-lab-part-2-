@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="1" last-seen="1588209775"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="17" last-seen="1588269909"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="2" score="17416.011123657227" last-seen="1588271466"/>
+    <application id="org.gnome.Weather.Application.desktop" open-window-count="0" score="0" last-seen="1588257051"/>
+    <application id="firefox.desktop" open-window-count="0" score="7111" last-seen="1588270039"/>
+  </context>
+</application-state>
